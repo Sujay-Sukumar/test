@@ -1,0 +1,34 @@
+
+In repository, under <>Code tab, Press Code button to get URL
+
+URL of repository on GitHub
+============================
+https://github.com/Sujay-Sukumar/test.git
+
+
+Commands on Terminal
+===========================
+
+Go to Pycharm -> View -> Tool Windows -> Terminal
+
+D:
+
+mkdir Git_Github
+
+cd Git_Github
+
+mkdir repository
+
+cd repository
+
+mkdir test
+
+cd test
+
+PS D:\Git_GitHub\repository\test> 
+
+PS D:\Git_GitHub\repository\test> git init
+
+PS D:\Git_GitHub\repository\test> git config --global user.email "sujay.sukumar.career@gmail.com"
+
+PS D:\Git_GitHub\repository\test> git config --global user.name "Sujay Sukumar"
