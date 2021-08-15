@@ -40,3 +40,6 @@ PS D:\Git_GitHub\repository\test> git commit notes.txt
  1 file changed, 34 insertions(+)
  create mode 100644 notes.txt
 PS D:\Git_GitHub\repository\test>
+
+PS D:\Git_GitHub\repository\test> git push -u origin master
+
