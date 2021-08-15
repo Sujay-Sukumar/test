@@ -32,3 +32,11 @@ PS D:\Git_GitHub\repository\test> git init
 PS D:\Git_GitHub\repository\test> git config --global user.email "sujay.sukumar.career@gmail.com"
 
 PS D:\Git_GitHub\repository\test> git config --global user.name "Sujay Sukumar"
+
+PS D:\Git_GitHub\repository\test> git add .\notes.txt
+
+PS D:\Git_GitHub\repository\test> git commit notes.txt
+[master (root-commit) 403129e] Not empty message on 15 Aug 2021
+ 1 file changed, 34 insertions(+)
+ create mode 100644 notes.txt
+PS D:\Git_GitHub\repository\test>
